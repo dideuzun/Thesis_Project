@@ -1,0 +1,6 @@
+,age,workclass,fnlwgt,education-num,marital-status,relationship,race,sex,capital-gain,capital-loss,hours-per-week,income
+27142,44,Private,174373,12,Married-civ-spouse,Husband,Amer-Indian-Eskimo,Male,0,0,22,0
+27143,70,Private,187891,7,Married-spouse-absent,Husband,White,Male,0,2538,40,1
+27144,17,Private,53611,8,Never-married,Own-child,White,Female,84606,0,77,1
+27145,33,State-gov,291494,3,Married-civ-spouse,Husband,White,Female,0,0,50,0
+27146,62,Private,254534,10,Married-civ-spouse,Husband,White,Male,11741,0,40,1

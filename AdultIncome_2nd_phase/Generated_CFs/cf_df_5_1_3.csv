@@ -1,0 +1,6 @@
+,age,workclass,fnlwgt,education-num,marital-status,relationship,race,sex,capital-gain,capital-loss,hours-per-week,income
+27142,20,Local-gov,174373,12,Married-civ-spouse,Husband,White,Male,0,0,40,0
+27143,70,Local-gov,187891,7,Married-civ-spouse,Husband,White,Male,23282,0,40,1
+27144,17,Private,53611,8,Married-civ-spouse,Own-child,White,Female,13436,0,6,1
+27145,27,State-gov,291494,16,Married-civ-spouse,Husband,White,Male,0,0,50,0
+27146,62,Private,254534,14,Married-civ-spouse,Husband,White,Male,0,0,26,1

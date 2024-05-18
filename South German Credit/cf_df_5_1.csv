@@ -1,0 +1,6 @@
+,status,duration,credit_history,purpose,amount,savings,employment_duration,installment_rate,personal_status_sex,other_debtors,present_residence,property,age,other_installment_plans,housing,number_credits,job,people_liable,telephone,foreign_worker,credit
+160005,2,12,critical account/other credits elsewhere,others,1995,... <  100 DM,1,0,male : married/widowed,none,1,building soc. savings agr./life insurance,27,none,rent,1,skilled employee/official,0 to 2,no,no,0
+160006,2,46,no credits taken/all credits paid back duly,car (used),2186,... >= 1000 DM,3,0,female : non-single or male : single,none,0,unknown / no property,33,bank,for free,1,unskilled - resident,0 to 2,no,no,0
+160007,1,24,critical account/other credits elsewhere,repairs,1927,... >= 1000 DM,2,1,female : non-single or male : single,none,2,building soc. savings agr./life insurance,33,none,rent,3-Feb,skilled employee/official,0 to 2,yes (under customer name),no,0
+160008,1,52,no credits taken/all credits paid back duly,car (used),2136,unknown/no savings account,2,1,male : married/widowed,none,2,unknown / no property,25,none,rent,1,skilled employee/official,0 to 2,no,no,0
+160009,1,43,all credits at this bank paid back duly,car (new),15941,... <  100 DM,3,3,female : single,none,0,building soc. savings agr./life insurance,24,none,for free,3-Feb,skilled employee/official,0 to 2,no,no,0
