@@ -1,0 +1,16 @@
+,age,workclass,fnlwgt,education-num,marital-status,relationship,race,sex,capital-gain,capital-loss,hours-per-week,income
+27152,26,Private,174373,12,Married-civ-spouse,Own-child,White,Male,0,0,40,0
+27153,44,Private,174373,12,Married-civ-spouse,Own-child,White,Male,0,0,27,0
+27154,35,Private,174373,12,Married-civ-spouse,Husband,Black,Male,0,0,40,0
+27155,70,Private,187891,7,Married-civ-spouse,Husband,White,Male,0,3551,99,1
+27156,18,Private,187891,7,Married-civ-spouse,Husband,White,Male,61359,0,40,1
+27157,90,Private,187891,7,Married-civ-spouse,Husband,White,Male,57175,0,40,1
+27158,17,Private,53611,3,Never-married,Own-child,White,Female,48659,0,6,0
+27159,17,Private,53611,8,Never-married,Own-child,White,Female,74461,0,6,1
+27160,17,Private,53611,8,Widowed,Own-child,White,Female,69430,0,6,1
+27161,33,State-gov,291494,5,Married-civ-spouse,Husband,Amer-Indian-Eskimo,Male,0,0,50,0
+27162,33,State-gov,291494,7,Married-civ-spouse,Husband,White,Male,0,1280,50,0
+27163,33,State-gov,291494,16,Divorced,Husband,White,Male,0,0,34,0
+27164,62,Federal-gov,254534,10,Married-civ-spouse,Husband,White,Male,58354,0,40,1
+27165,62,Private,254534,10,Married-civ-spouse,Husband,White,Male,28020,0,82,1
+27166,62,Private,254534,11,Married-civ-spouse,Husband,White,Male,0,0,40,1
