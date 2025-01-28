@@ -1,14 +1,4 @@
 # Counterfactual Explanations for Model Distillation
-Dide Uzun <br /> Thesis Project
-Amsterdam University of Applied Sciences<br />
-Master Digital Driven Business <br />
-**Supervisor:** Riccardo Pinosio<br />
-**Second Assessor:** Raymond Zwaal<br /><br />
-**Email:** dideuzun99@gmail.com<br />
-**LinkedIn:** [Dide Uzun](https://www.linkedin.com/in/dideuzun/)
-
-
-# Counterfactual Explanations for Model Distillation
 
 Machine learning plays an important role in industries like finance and healthcare, helping organizations make smarter decisions. Advances in algorithms, computing power, and access to large datasets have made it easier to develop powerful models. However, **complex machine learning models** such as random forests and decision trees, often become difficult to understand, **sacrifice transparency and interpretability** , which is a problem when decisions significantly impact people's lives.
 
@@ -35,6 +25,6 @@ The ultimate goal is to create machine learning systems that are **transparent, 
 
 - [Dide Uzun](https://www.github.com/dideuzun) - [LinkedIn ](https://www.linkedin.com/in/dideuzun/) - **Email:** dideuzun99@gmail.com
 - Project Supervisor: [Riccardo Pinosio](https://github.com/riccardopinosio)
-- Project Second Assessor: Raymond Zwaal <br />
+- Project Second Assessor: Raymond Zwaal <br /> <br />
 Amsterdam University of Applied Sciences <br />
 Master Digital Driven Business <br />
